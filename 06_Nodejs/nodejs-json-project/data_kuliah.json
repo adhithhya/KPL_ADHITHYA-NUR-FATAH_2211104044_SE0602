@@ -1,0 +1,16 @@
+{
+    "student": {
+      "name": "Adhithya"
+    },
+    "lecturerCode": "A213",
+    "courses": [
+      {
+        "courseCode": "IF201",
+        "courseName": "Pemrograman Dasar"
+      },
+      {
+        "courseCode": "IF102",
+        "courseName": "Struktur Data"
+      }
+    ]
+  }
